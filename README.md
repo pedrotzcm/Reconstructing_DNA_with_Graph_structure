@@ -12,4 +12,9 @@ You can change the parameters to whichever ones desired: in the .txt file "arqui
 
 To compile the program run g++ main.cpp graph.cpp -o <name_of_executable> and ./<name_of_executable>.
 
+Dependencies:
+gcc version 6.3.0 (MinGW.org GCC-6.3.0-1).
+
+Program ran on AMD Ryzen 7 5800H with Radeon Graphics, with 2,78GB of memory, in a WSL terminal running Ubuntu 22.04.3.
+
 
